@@ -1,0 +1,1 @@
+/** Teamchat Android connectors code */
